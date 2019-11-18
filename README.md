@@ -1,5 +1,6 @@
 # Wine
-Choosing the number of neighbors
+Choosing the number of neighbors. 
+When using the Wine dataset, it is required to predict the grape variety from which wine is made using the results of chemical analyzes.
 ## Introduction
 Metric methods are based on the compactness hypothesis, the essence of which is that objects with similar feature descriptions have similar values ​​of the target variable. If this hypothesis is true, then you can build a forecast for a new object based on objects close to it from the training set - for example, by averaging their answers (for regression) or by choosing the class most popular among them (for classification). Methods of this type are called metric. They have several features:
 
